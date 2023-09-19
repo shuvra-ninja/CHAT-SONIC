@@ -44,7 +44,7 @@
       "name": "Ai Chat",
       "short_name": "Chat",
       "description": "Ai Chat",
-      "url": "/",
+      "url": ".",
       "icons": [
         {
           "src": "/images/android-launchericon-192-192.png",
