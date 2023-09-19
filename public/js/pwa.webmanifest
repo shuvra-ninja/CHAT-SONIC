@@ -34,7 +34,7 @@
       "sizes": "48x48"
     }
   ],
-  "start_url": "https://chat-sonic.onrender.com/",
+  "start_url": "https://chatsonic.cyclic.cloud/",
   "display_override": ["window-control-overlay", "standalone"],
   "display": "standalone",
   "theme_color": "#020105",
@@ -44,7 +44,7 @@
       "name": "Ai Chat",
       "short_name": "Chat",
       "description": "Ai Chat",
-      "url": ".",
+      "url": "https://chatsonic.cyclic.cloud/",
       "icons": [
         {
           "src": "/images/android-launchericon-192-192.png",
