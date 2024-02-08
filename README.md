@@ -45,6 +45,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ## :star2: About the Project
 
+![Image Description](https://github.com/shuvra-matrix/images/blob/main/Screenshot%202024-01-28%20094915.png?raw=true)
+<br>
+
   <p>
     Chat Sonic is an innovative web application developed using Node.js, OpenAI API, and harnessing the capabilities of Stable Diffusion v2.1 models. This powerful app combines the functionalities of a chatbot, image generation, and Progressive Web App (PWA) support, offering users a seamless and immersive experience.
   </p>
